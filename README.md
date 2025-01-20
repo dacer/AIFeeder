@@ -24,7 +24,7 @@ AiFeeder is an Android application designed to assist in maintaining your pet's 
   - The app requires a `feedPet.har` file in the project root directory to control the pet feeder.
   - Every time food needs to be dispensed, the app will send a network request identical to the one defined in the `feedPet.har` file.
 
-## Installation
+## Build Instructions
 
 1. Clone the repository.
 2. Add the `GEMINI_API_KEY` to the `local.properties` file.
