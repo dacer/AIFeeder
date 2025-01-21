@@ -23,9 +23,9 @@ suspend fun isFeederLowOnFood(bitmap: Bitmap): Boolean {
             
             You need to determine if the pet needs more food.  
             
-            1. Return **true** if (and only if) you can clearly see the bowl and confirm that it is at most 20% full.  
+            1. Return **true** if (and only if) you can clearly see the bowl and confirm that it is at most 30% full.  
             2. Return **false** if:
-               - The bowl is more than 20% full, OR
+               - The bowl is more than 30% full, OR
                - There is a pet actively eating from or otherwise blocking the bowl, OR
                - You cannot clearly identify the bowl or the amount of food (e.g., due to darkness, poor lighting, occlusion), OR
                - The photo is too dark or unclear to see the contents of the bowl.  
