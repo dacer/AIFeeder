@@ -2,6 +2,8 @@
 
 AiFeeder is an Android application designed to assist in maintaining your pet's feeding schedule. The app uses your phone’s camera to periodically check the bowl of an automatic pet feeder and ensures that it never runs out of food.
 
+https://zenn.dev/progate/articles/29a32338e4fa11
+
 ## Features
 
 1. **Automated Bowl Monitoring**
